@@ -7,11 +7,17 @@ Rossman operates over 3000 drug stores in 7 European countries. Store sales are 
 The dataset consists of 1,017,209 rows and 9 columns training data and 41,088 rows and 8 columns.
 
 Files
+
 train.csv - historical data including Sales
+
 test.csv - historical data excluding Sales
+
 sample_submission.csv - a sample submission file in the correct format
+
 store.csv - supplemental information about the stores
+
 Data fields
+
 Most of the fields are self-explanatory. The following are descriptions for those that aren't.
 
 Id - an Id that represents a (Store, Date) duple within the test set
